@@ -1,0 +1,21 @@
+﻿# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 屏蔽生成和释放文件夹
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# 屏蔽其他文件和文件夹
+**/.settings/
+
+# 屏蔽可执行程序
+*.swf
+*.air
+*.ipa
+*.apk
+
+# 不屏蔽的文件
